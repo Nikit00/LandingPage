@@ -50,9 +50,20 @@ body {
     padding: 10px;
 }
 
-.imagem-audio {
-    border-radius: 50px;
-    height: 250px;
+.car1,
+.car2,
+.car3,
+.car4 {
+    border-radius: 50%;
+    height: 180px;
+    border: 2px solid #FFFF;
+}
+
+.car1 car2,
+car2,
+car3,
+car4 {
+    border-radius: 50%;
 }
 
 .conteudo-escrito {
